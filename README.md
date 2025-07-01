@@ -1,4 +1,4 @@
-🎓 School Uniform Ordering System
+New 🎓 School Uniform Ordering System
 
 This repository contains the source code for a School Uniform Ordering System, developed as a C# console application.
 
